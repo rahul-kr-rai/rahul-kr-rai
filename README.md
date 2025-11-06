@@ -20,7 +20,10 @@
 
 <br/>
 
-## 📊 GitHub Stats:
+<h2 style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/github.png" style="margin-right: 10px;" />
+  GitHub Stats
+</h2>
 
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
@@ -54,15 +57,20 @@
 </p>
 
 
+<h2>✍️ Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+<hr/>
+<!-- QUICK FACTS -->
+<div align="center">
+  <!-- Use ONE style: flat for minimalism -->
+  <img src="https://komarev.com/ghpvc/?username=rahul-kr-rai&label=Views&color=2F80ED&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rahul-kr-rai?style=flat&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rahul-kr-rai?style=flat&label=Stars" alt="Stars" />
+</div>
 
 
 
-
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rahul-kr-rai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
