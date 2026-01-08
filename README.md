@@ -32,12 +32,6 @@
 <br/>
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahul-kr-rai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-
 ## 🏅 CodeChef Achievements
 
 <p align="center">
@@ -47,9 +41,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Diamond%20Badge-%F0%9F%92%8E-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gold%20Badge-%F0%9F%8F%86-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Silver%20Badge-%F0%9F%A5%88-lightgrey?style=for-the-badge" />
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQG_hOg5iOfp6A/feedshare-shrink_800/feedshare-shrink_800/0/1733601224881?e=1769644800&v=beta&t=3gqjEpNctwziiJnTMKfte83kIlC7qU6aKShhbtkdMmE" style="width:250px; height: 250px; border-radius: 15px;" alt="CodeChef Badge" />
+  &nbsp; <img src="https://media.licdn.com/dms/image/v2/D5622AQHNadkiQwmpvg/feedshare-shrink_800/feedshare-shrink_800/0/1729227637809?e=1769644800&v=beta&t=b7cjKa_12Qk2Xv-LZbtA5NDAe-DLgHuuXB89t75rEJQ" style="width:250px; height: 250px; border-radius: 15px;" alt="CodeChef Badge" />
+  &nbsp; <img src="https://media.licdn.com/dms/image/v2/D5622AQET_gnI2gvmew/feedshare-shrink_800/feedshare-shrink_800/0/1727033070882?e=1769644800&v=beta&t=lMaPzRm793LcPP2kzbCG8lezzsvGjTp8OrGVxAWjPfQ" style="width:250px; height: 250px; border-radius: 15px;" alt="CodeChef Badge" />
 </p>
 
 <p align="center">
